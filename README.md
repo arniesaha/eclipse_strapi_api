@@ -1,3 +1,3 @@
-# Strapi application
+# Eclipse - Strapi API
 
-A quick description of your strapi application
+Run app: npx strapi develop
